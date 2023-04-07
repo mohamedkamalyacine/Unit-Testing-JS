@@ -1,0 +1,6 @@
+in lab, you will need to test both happy and negative scenarios for transformArrayToString , and getLicenseValidity 
+i.e: test that transformArrayToString throws exception if delimeter is not string, not only success case
+ 
+Also, for getLicenseValidity test that it returns "valid" and that it returns "invalid"
+ 
+for updateCar , only happy scenario is enough
